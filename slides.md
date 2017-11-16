@@ -40,6 +40,8 @@ source image : capture d'écran du logiciel Pixlr-omatic (chambre noire numériq
 
 >Tout en regardant les infos, j’écoute le morceau de musique lancinant, piano et violon, contrebasse en récitatif itératif syncopant les images de météo neurasthénique du soir puis, [...] **en gros sel de pixels**, le mitraillage de foules syriennes, palestiniennes ou yéménites filmées d’un toit, cellulaire à bout de bras, soudain abattu.
 
+<!-- .element: style="font-size:1.4rem; text-align:justify" -->
+
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 <!-- .slide: data-background-video="img/pixelsPJ.mp4" -->
@@ -102,7 +104,7 @@ source image : Éric Rondepierre, _DSL_.
 
 >Tout en regardant les infos, j’écoute le morceau de musique lancinant, piano et violon, contrebasse en récitatif itératif syncopant les images de météo neurasthénique du soir puis, sans transition, la fuite de pick-up cabossés roulant à tombeau ouvert vers l’horizon du désert, chargés d’armes d’assaut, de lance-roquettes, de paquets de dépenaillés tirant des rafales en l’air – ciel libyen dégagé, beau temps de saison sur le secteur –, puis, en gros sel de pixels, le mitraillage de foules syriennes, palestiniennes ou yéménites filmées d’un toit, cellulaire à bout de bras, soudain abattu. [...].
 
-<!-- .element: style="font-size:1.8rem; text-align:justify" -->
+<!-- .element: style="font-size:1.4rem; text-align:justify" -->
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/MuybridgeHorses.jpg" -->
@@ -110,7 +112,7 @@ source image : Éric Rondepierre, _DSL_.
 
 >Puis un iceberg monumental dérivant, la calotte du pôle se disloque. Puis, sous enceinte électrifiée et vidéosurveillance, les bâtiments altiers, cadre stable, d’une firme pharmaceutique planquée en pleins champs, jets de pilules toxiques ensachées au robot qui tressautent gaiement, puis une délégation de ministres japonais en combinaison étanche, masque à groin et doubles gants de protection, à petits pas sautillants visitant sous la pluie les ruines d’une centrale. Pluie de particules, pluie de larmes rayant la pellicule, vieux films en noir et blanc d’une époque irradiée, dix mille soleils sur la place, personne n’a définitivement rien vu à Fukushima.
 
-<!-- .element: style="font-size:1.8rem; text-align:justify" -->
+<!-- .element: style="font-size:1.4rem; text-align:justify" -->
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/phpThumb_generated_thumbnailjpg.jpeg" -->
@@ -118,7 +120,7 @@ source image : Éric Rondepierre, _DSL_.
 
 >[...]en informatique, quoi qu’on en veuille et sans exception, implacablement, what you see is what you mean. Exécution au doigt et à l’œil. Principe bouleversant. Pas moyen de crier à l’innocence, à l’erreur : ce que je vois est ce que je veux dire.
 
-<!-- .element: style="font-size:1.8rem; text-align:justify" -->
+<!-- .element: style="font-size:1.4rem; text-align:justify" -->
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/postcardfromGE.jpg" -->
@@ -128,7 +130,7 @@ source image : Éric Rondepierre, _DSL_.
 
 >J’ai grossi trop vite l’image, la mosaïque barguigne. Mais, une fois stabilisé à 50 m d’altitude, le capteur cerne du détail pittoresque local, échantillonne toits et jardins en couleur réaliste de beau temps idéal, soleil au zénith sur cet épisode de ma vie, plein écran.
 
-<!-- .element: style="font-size:1.8rem; text-align:justify" -->
+<!-- .element: style="font-size:1.4rem; text-align:justify" -->
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/Ecran_Garat_2011.png" -->
@@ -183,7 +185,7 @@ source image : Corinne Vionnet, _Photo Opportunities_.
 
 >Je n’ai eu nul besoin de visiocasque stéréoscopique pour obtenir cette apparition. Ni des nouvelles lentilles de contact qu’on teste sur les lapins. Avec ce matériel expérimental en film de silicium à circuits intégrés et diodes électroluminescents, l’œil encapsulé dans la lentille polymère biocompatible et branchée wifi, on en fait voir de toutes les couleurs à ces pauvres bêtes. Dire qu’on nous promet ces implants futuristes comme terminal oculaire. J’ai meilleure cornée que les lapins prothésés. Mon œil naturel synthétise ma tante Dee en 3D, l’intègre à l’environnement réaliste de la chambre, dans laquelle je suis résolument assis aux commandes.
 
-<!-- .element: style="font-size:1.8rem; text-align:justify" -->
+<!-- .element: style="font-size:1.4rem; text-align:justify" -->
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/8_loeil2320.jpg" -->
@@ -191,7 +193,7 @@ source image : Corinne Vionnet, _Photo Opportunities_.
 
 >Nul doute, en ce temps-là elle était gaie, douée pour les facéties et la photographie ; aujourd’hui il n’y a pas plus triste que tante Dee. Mais la voilà rajeunie par pur enchantement, lifting cervico-facial, ses traits s’égalisent, ses cheveux fourmillent de vers luisants, pas de doute, entre deux pans, elle me regarde. Je soutiens sans faillir ce regard sorti des ombres. Je suis petit, mais nous sommes à la même hauteur, nos visages sont en vis-à-vis, yeux dans les yeux je lui déclare : tu les as assassinés. Question subsidiaire : pourquoi pas moi ?
 
-<!-- .element: style="font-size:1.8rem; text-align:justify" -->
+<!-- .element: style="font-size:1.4rem; text-align:justify" -->
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
