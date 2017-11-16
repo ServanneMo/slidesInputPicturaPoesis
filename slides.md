@@ -223,3 +223,17 @@ source image : Corinne Vionnet, _Photo Opportunities_.
 <!-- .slide: data-background-image="img/Identite_du_regard.jpeg" data-background-size="contain"-->
 
 ## De la remédiation à la rétromédiation
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+<!-- .slide: data-background-image="img/Identite_du_regard.jpeg" data-background-size="contain"-->
+
+source image : Atiq Rahimi, _Le Retour imaginaire_.
+
+<!-- .element: class="source" -->
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+<!-- .slide: data-background-image="img/images.jpeg" data-background-size="contain"-->
+
+## Merci !
