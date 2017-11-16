@@ -1,7 +1,7 @@
 <!-- .slide: data-background-image="img/6_definition05.jpg" -->
 <!-- .slide: class="hover"-->
 
-## "Les gros sels de pixels": une photolittérature de la remédiation
+## "Les gros sels de pixels" <br> une photolittérature de la remédiation
 
 Servanne Monjour
 
@@ -159,7 +159,7 @@ source image : Aziz+Cucher.
 
 ### L'image-virus
 
->[...] je ne sais en quelle langue cela se présente. En laquelle s’articulent les unes aux autres les séquences, si elles sont des pensées, des visions, des souvenirs, des agrégats de grains, de pixels de brume ou de neige. Si elles m’appartiennent en propre ou sont un corps étranger à ma langue. Si la voix de Dee, glissant son venin à mon oreille, contamine mon cerveau ou celui de mon ordinateur. Incrédule, je contemple la densité physique et sonore de cet endroit saturé d’informations illisibles
+>[...] je ne sais en quelle langue cela se présente. En laquelle s’articulent les unes aux autres les séquences, si elles sont des pensées, des visions, des souvenirs, des agrégats de grains, de pixels de brume ou de neige. Si elles m’appartiennent en propre ou sont un corps étranger à ma langue. Si la voix de Dee, glissant son venin à mon oreille, contamine mon cerveau ou celui de mon ordinateur. Incrédule, je contemple la densité physique et sonore de cet endroit saturé d’informations illisibles.
 
 <!-- .element: style="font-size:1.4rem; text-align:justify" -->
 
@@ -171,6 +171,12 @@ source image : Aziz+Cucher.
 source image : Corinne Vionnet, _Photo Opportunities_.
 
 <!-- .element: class="source" -->
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/vionnet.jpg" -->
+<!-- .slide: class="hover"-->
+
+>Cet endroit n’existe pas, ou bien pas encore. Son téléchargement est pénible, bas débit du flux de mémoire. J’ignore le nombre de conducteurs qui sérialisent la transmission, comme la fréquence bidirectionnelle ou non qui donne de l’information par à-coups, peine à agréger les bits en image haute définition, j’ai du mal à voir ce que je veux dire. Malgré ce que prétend Alix, impulsion et exécution ne sont pas synchrones. Ou bien ma lecture est trop lente, trop lent mon cerveau à occuper les zones allouées, les zones vierges où stocker cette séquence ; elle est si reculée dans le temps qu’elle le semble dans l’espace. Je cherche à la géolocaliser quand c’est dans le passé qu’elle se loge, dans des strates fossiles où je suis mort d’enfance.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/anonymous.jpg" -->
