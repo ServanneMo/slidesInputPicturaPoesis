@@ -5,7 +5,7 @@
 
 Servanne Monjour
 
-Colloque_Input pictura poesis_
+Colloque _Input pictura poesis_
 <br>Lyon - novembre 2017
 
 ![logo CRCEN](img/LogoENDT10-2016.png) <!-- .element: class="logo" style="width:30%; background-color:ghostwhite;padding: 5px" -->
@@ -133,6 +133,14 @@ source image : Éric Rondepierre, _DSL_.
 <!-- .element: style="font-size:1.4rem; text-align:justify" -->
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/postcardfromGE.jpg" -->
+
+source image : Clément Valla, _Postcards from Google Earth_.
+
+<!-- .element: class="source" -->
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/Ecran_Garat_2011.png" -->
 <!-- .slide: class="hover"-->
 
@@ -178,6 +186,8 @@ source image : Corinne Vionnet, _Photo Opportunities_.
 
 >Cet endroit n’existe pas, ou bien pas encore. Son téléchargement est pénible, bas débit du flux de mémoire. J’ignore le nombre de conducteurs qui sérialisent la transmission, comme la fréquence bidirectionnelle ou non qui donne de l’information par à-coups, peine à agréger les bits en image haute définition, j’ai du mal à voir ce que je veux dire. Malgré ce que prétend Alix, impulsion et exécution ne sont pas synchrones. Ou bien ma lecture est trop lente, trop lent mon cerveau à occuper les zones allouées, les zones vierges où stocker cette séquence ; elle est si reculée dans le temps qu’elle le semble dans l’espace. Je cherche à la géolocaliser quand c’est dans le passé qu’elle se loge, dans des strates fossiles où je suis mort d’enfance.
 
+<!-- .element: style="font-size:1.4rem; text-align:justify" -->
+
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/anonymous.jpg" -->
 
@@ -206,3 +216,10 @@ source image : Corinne Vionnet, _Photo Opportunities_.
 <!-- .slide: data-background-image="img/photolit.png" data-background-size="contain"-->
 
 ## Une nouvelle photolittérature&nbsp;?
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+<!-- .slide: data-background-image="img/Identite_du_regard.jpeg" data-background-size="contain"-->
+
+## De la remédiation à la rétromédiation
