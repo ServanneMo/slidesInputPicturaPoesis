@@ -3,8 +3,8 @@
 
 ## "Les gros sels de pixels" <br> une photolittérature de la remédiation
 
-Servanne Monjour
-
+Servanne Monjour <br> CRC sur les écritures numériques <br> Université de Montréal
+<br>
 Colloque _Input pictura poesis_
 <br>Lyon - novembre 2017
 
